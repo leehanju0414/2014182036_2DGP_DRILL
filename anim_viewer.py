@@ -1,5 +1,5 @@
 import os
-os.chdir('d:/2014182036_2DGP_DRILL')
+os.chdir('c:/2014182036_2DGP_DRILL')
 
 from pico2d import *
 open_canvas(500, 500)
